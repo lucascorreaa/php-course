@@ -1,4 +1,10 @@
-<?php include 'inc/header.inc.php'; ?>
+<?php 
+
+$pageTitle = 'Ingredients';
+$headerImg = 'images/pexels-julia-volk-5273044.jpg';
+include 'inc/header.inc.php'; 
+
+?>
 
 <main>
     <h1>Our ingredients</h1>
